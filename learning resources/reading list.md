@@ -2,7 +2,7 @@
 
 | No. |  Title | Institution | Venue | Comment |
 | --- | --- | --- | --- | --- |
-|  1   |   [Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models]((https://arxiv.org/pdf/2302.04222.pdf))  |    University of Chicago   |   arxiv-2306  |  |
+|  1   |   [Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models](https://arxiv.org/pdf/2302.04222.pdf)  |    University of Chicago   |   arxiv-2306  |  |
 |  2   |   [ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel Patching](https://arxiv.org/pdf/2308.13062.pdf)  |   Worcester Polytechnic Institute   |   arxiv-230824  |  |
 
 
