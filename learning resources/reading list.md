@@ -2,8 +2,8 @@
 
 | No. |  Title | Institution | Venue | Comment |
 | --- | --- | --- | --- | --- |
-|  1   |   [ChatGPT vs. Lightweight Security: First Work Implementing the NIST Cryptographic Standard ASCON](https://arxiv.org/pdf/2306.08178.pdf)  |   Marymount University   |   arxiv-2306  | 首个用ChatGPT来探索密码算法ASCON的实现 |
-|  2   |   [ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel Patching](https://arxiv.org/pdf/2308.13062.pdf)  |   Worcester Polytechnic Institute   |   arxiv-230824  | 代码实现，侧信道 |
+|  1   |   [Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models]((https://arxiv.org/pdf/2302.04222.pdf))  |    University of Chicago   |   arxiv-2306  |  |
+|  2   |   [ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel Patching](https://arxiv.org/pdf/2308.13062.pdf)  |   Worcester Polytechnic Institute   |   arxiv-230824  |  |
 
 
 # Centralized Learning
