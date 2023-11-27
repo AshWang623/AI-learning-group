@@ -1,1 +1,3 @@
 # AI-learning-group
+
+🐱 🐷
