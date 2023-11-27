@@ -1,1 +1,3 @@
 
+mit1806 6041 6042j 6006
+stanford cs229 cs230 cs231n cs224n cs131
